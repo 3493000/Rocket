@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Effects
+  - Edge
+  - Terrain
+  - Target
+  - Undefined
+  - Road
+  - Dao
+  - Effect
+  - DestroyedSpike
+  - Fruit
+  - Gift
+  - 123
+  - GoldBoxes
+  - FruitBoxes
+  - WeaponBoxes
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fruit
+  - Player
+  - Edge
+  - DestroyedSpike
+  - Ground
+  - Stone
+  - Mushroom
+  - TouchRay
+  - JusticeEdge
+  - Particle
+  - tempStone
+  - skill
+  - Target
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

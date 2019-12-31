@@ -1,0 +1,20 @@
+
+fingerdian.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fingergq
+  rotate: false
+  xy: 706, 282
+  size: 676, 676
+  orig: 676, 676
+  offset: 0, 0
+  index: -1
+fingersz
+  rotate: false
+  xy: 2, 2
+  size: 702, 956
+  orig: 702, 956
+  offset: 0, 0
+  index: -1

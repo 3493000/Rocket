@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a30cbcb9bb3e0b41823e663504d8534, type: 3}
+  m_Name: SDKConfig
+  m_EditorClassIdentifier: 
+  bundleIDIos: com.idle.perfect.chopped.jt
+  bundleIDAndroid: com.idle.perfect.chopped.jt
+  signatures: 933819630
+  iosAppID: 1366260618
+  channelID: IOS
+  buglyConfig:
+    isEnable: 1
+    isDebugMode: 0
+    priority: 1
+    buglyID_Android: 6033a74dd7
+    buglyID_iOS: 6033a74dd7
+  dataAnalysisConfig:
+    isEnable: 0
+    umengConfig:
+      isEnable: 0
+      isDebugMode: 0
+      priority: 1
+      iosAppKey: ' 5e0ab3134ca35745cd00011a'
+      androidAppKey: ' 5e0ab3134ca35745cd00011a'
+      appChannelId: Channel
+    facebookConfig:
+      isEnable: 0
+      isDebugMode: 0
+      priority: 1
+  adsConfig:
+    isEnable: 1
+    interstitialAdCoolingTime: 30
+    rewardedVideoAdCoolingTime: 30
+    admobConfig:
+      isEnable: 1
+      isDebugMode: 0
+      priority: 1
+      appIDAndroid: ca-app-pub-1640543079591033~1531104751
+      appIDIos: ca-app-pub-1640543079591033~1531104751
+      mopubId: 123123123
+  socialConfig:
+    isEnable: 1
+    fbConfig:
+      appLinkAndroid: 
+      appLinkiOS: 
+      previewImageAndroid: 
+      previewImageiOS: 
+      shareLink: 

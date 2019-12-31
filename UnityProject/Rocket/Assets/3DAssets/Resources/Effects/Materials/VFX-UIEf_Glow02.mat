@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: VFX-UIEf_Glow02
+  m_Shader: {fileID: 4800000, guid: d85f38404797fee42bc3bf31ce683ee0, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA _OTHER_ON _SWEEPLIGHTOPEN_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 556244fddfec7254fb6fbc218ede7a1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex_copy:
+        m_Texture: {fileID: 2800000, guid: e44ee31a587dae34d981f508359d5ba3, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _PatternTextures:
+        m_Texture: {fileID: 2800000, guid: 09eff528684136545ab6561c4fe9d1ec, type: 3}
+        m_Scale: {x: 3, y: 2}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - PixelSnap: 0
+    - _Cutoff: 0.5
+    - _EdgeOpacity: 1.6
+    - _FlashingOpen: 0
+    - _Glow_Max: 0.6
+    - _Glow_Min: 0.1
+    - _Intensity: 12.46
+    - _Light: 0.69
+    - _Other: 1
+    - _Shine: 1.17
+    - _Spoeed: 1.88
+    - _SweepLightOpen: 1
+    - _TimeSinLoop: 7.85
+    - _node_6467: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorSweep: {r: 1, g: 0.28509125, b: 0.022058845, a: 1}
+    - _GlowColor: {r: 0.5588235, g: 0.8539555, b: 1, a: 0.53333336}
+    - _node_8832: {r: 1, g: 0.375, b: 0.375, a: 1}
