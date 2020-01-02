@@ -1,0 +1,3 @@
+[submodule "UnityProject/Rocket/Assets/Hunter"]
+	path = UnityProject/Rocket/Assets/Hunter
+	url = git@github.com:3493000/Hunter.git
