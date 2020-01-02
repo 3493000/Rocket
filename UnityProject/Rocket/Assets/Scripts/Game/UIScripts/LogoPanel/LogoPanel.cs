@@ -11,8 +11,6 @@ namespace Hunter
     {
         [SerializeField]
         private float m_ShowTime = 3;
-        [SerializeField]
-        private Text m_LoadingText;
         private Action m_Listener;
         private int m_TimeID;
 
@@ -27,7 +25,6 @@ namespace Hunter
             {
                 Timer.S.Cancel(m_TimeID);
             }
-            m_LoadingText.DoText("...  ", m_ShowTime);
             m_TimeID = Timer.S.Post2Really(OnTimeReach, m_ShowTime);
         }
 
@@ -40,7 +37,6 @@ namespace Hunter
                 m_Listener();
                 m_Listener = null;
             }
-             //m_LoadingText.DoText("....  ",m_ShowTime);
         }
     }
 }
