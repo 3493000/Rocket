@@ -1,3 +1,6 @@
 [submodule "UnityProject/Rocket/Assets/Hunter"]
 	path = UnityProject/Rocket/Assets/Hunter
 	url = git@github.com:3493000/Hunter.git
+[submodule "UnityProject/Rocket/Assets/SDK"]
+	path = UnityProject/Rocket/Assets/SDK
+	url = https://gitee.com/lty3493000/SDKAdapter.git
